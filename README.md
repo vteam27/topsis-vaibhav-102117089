@@ -17,7 +17,7 @@ The `TOPSIS-Dhruv-102117061` package is a specialized Python tool designed for c
 To install the package, use the following pip command:
 
 ```bash
-pip install TOPSIS-Dhruv-102117061
+pip install TOPSIS-Vaibhav-102117089
 ```
 Example
 To run a TOPSIS analysis with specified weights and impacts on your dataset, use
